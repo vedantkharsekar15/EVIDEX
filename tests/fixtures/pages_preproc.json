@@ -1,0 +1,38 @@
+[
+  {
+    "document_id": "fixture_doc_1",
+    "filename": "fixture_paper_1.pdf",
+    "page_number": 1,
+    "text": "EVIDEX SYNTHETIC RESEARCH PAPER\n1\nThe proposed sensor network uses a state-of-the-art adaptive sampling strategy for environmental monitoring. The method evalu-\nates uncertainty before selecting the next measurement location. We first describe the experimental setting and the baseline models.\nFigure 2: Architecture of the proposed monitoring framework.\nEVIDEX Module 2 Fixture Footer"
+  },
+  {
+    "document_id": "fixture_doc_1",
+    "filename": "fixture_paper_1.pdf",
+    "page_number": 2,
+    "text": "EVIDEX SYNTHETIC RESEARCH PAPER\n2\nwhen the predicted uncertainty exceeds the sampling threshold. This page continues the analysis of the adaptive policy and reports a statistically significant improvement over the baseline.\nΣ xᵢ² = 1.2345\nThe short note.\nEVIDEX Module 2 Fixture Footer"
+  },
+  {
+    "document_id": "fixture_doc_1",
+    "filename": "fixture_paper_1.pdf",
+    "page_number": 3,
+    "text": "EVIDEX SYNTHETIC RESEARCH PAPER\n3\nThe results indicate that spatial coverage improves as the observation budget increases. Measurements were repeated across three independent trials to estimate variance.\nReferences\n[1] A. Researcher. Adaptive sampling for environmental sensing. Journal of Synthetic Methods, 2024.\n[2] B. Analyst and C. Engineer. Uncertainty-aware deployment of sensor networks. Proceedings of Example Systems, 2025.\nEVIDEX Module 2 Fixture Footer"
+  },
+  {
+    "document_id": "fixture_doc_2",
+    "filename": "fixture_paper_2.pdf",
+    "page_number": 1,
+    "text": "NEURAL SYSTEMS SYNTHETIC STUDY\n1\nTransformer-based encoders can represent long-range dependencies in scientific documents. Our controlled evaluation compares a compact encoder with a recurrent baseline on noisy page extractions. The preprocessing pipeline preserves meaningful punctuation and scientific terminology.\nTable 1: Summary of validation metrics across model variants.\nNEURAL SYSTEMS Fixture Footer"
+  },
+  {
+    "document_id": "fixture_doc_2",
+    "filename": "fixture_paper_2.pdf",
+    "page_number": 2,
+    "text": "NEURAL SYSTEMS SYNTHETIC STUDY\n2\nA second experiment measures token stability under moderate formatting noise. The observed gains remain consistent across domains, although the confidence interval widens for the smallest evaluation set.\n@@ ## 7 / 0 = 3\nResults from the ablation study are discussed below.\nNEURAL SYSTEMS Fixture Footer"
+  },
+  {
+    "document_id": "fixture_doc_2",
+    "filename": "fixture_paper_2.pdf",
+    "page_number": 3,
+    "text": "NEURAL SYSTEMS SYNTHETIC STUDY\n3\nReferences\n[1] D. Scientist. Robust representations for document understanding. Synthetic Computing Review, 2023.\n[2] E. Author. Evaluation protocols for reproducible language experiments. Example Data Journal, 2025.\nThe reference list remains part of the source text for downstream provenance analysis.\nNEURAL SYSTEMS Fixture Footer"
+  }
+]
