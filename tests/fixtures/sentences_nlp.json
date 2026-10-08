@@ -1,0 +1,167 @@
+[
+  {
+    "sentence_id": "doc01_s00000",
+    "document_id": "doc01",
+    "document_name": "transformer_attention.pdf",
+    "page_number": 1,
+    "sentence_index": 0,
+    "text": "The dominant sequence transduction models are based on complex recurrent or convolutional neural networks.",
+    "tokens": ["The", "dominant", "sequence", "transduction", "models", "are", "based", "on", "complex", "recurrent", "or", "convolutional", "neural", "networks", "."],
+    "normalized_tokens": ["the", "dominant", "sequence", "transduction", "models", "are", "based", "on", "complex", "recurrent", "or", "convolutional", "neural", "networks"],
+    "in_references": false
+  },
+  {
+    "sentence_id": "doc01_s00001",
+    "document_id": "doc01",
+    "document_name": "transformer_attention.pdf",
+    "page_number": 1,
+    "sentence_index": 1,
+    "text": "We propose the Transformer, a model architecture relying entirely on an attention mechanism.",
+    "tokens": ["We", "propose", "the", "Transformer", ",", "a", "model", "architecture", "relying", "entirely", "on", "an", "attention", "mechanism", "."],
+    "normalized_tokens": ["we", "propose", "the", "transformer", "a", "model", "architecture", "relying", "entirely", "on", "an", "attention", "mechanism"],
+    "in_references": false
+  },
+  {
+    "sentence_id": "doc01_s00002",
+    "document_id": "doc01",
+    "document_name": "transformer_attention.pdf",
+    "page_number": 2,
+    "sentence_index": 2,
+    "text": "Experiments show that the Transformer improves translation quality while being more parallelizable.",
+    "tokens": ["Experiments", "show", "that", "the", "Transformer", "improves", "translation", "quality", "while", "being", "more", "parallelizable", "."],
+    "normalized_tokens": ["experiments", "show", "that", "the", "transformer", "improves", "translation", "quality", "while", "being", "more", "parallelizable"],
+    "in_references": false
+  },
+  {
+    "sentence_id": "doc01_s00003",
+    "document_id": "doc01",
+    "document_name": "transformer_attention.pdf",
+    "page_number": 2,
+    "sentence_index": 3,
+    "text": "Self-attention connects different positions of a single sequence to compute a representation.",
+    "tokens": ["Self-attention", "connects", "different", "positions", "of", "a", "single", "sequence", "to", "compute", "a", "representation", "."],
+    "normalized_tokens": ["self-attention", "connects", "different", "positions", "of", "a", "single", "sequence", "to", "compute", "a", "representation"],
+    "in_references": false
+  },
+  {
+    "sentence_id": "doc01_s00004",
+    "document_id": "doc01",
+    "document_name": "transformer_attention.pdf",
+    "page_number": 3,
+    "sentence_index": 4,
+    "text": "Multi-head attention allows the model to jointly attend to information from different representation subspaces.",
+    "tokens": ["Multi-head", "attention", "allows", "the", "model", "to", "jointly", "attend", "to", "information", "from", "different", "representation", "subspaces", "."],
+    "normalized_tokens": ["multi-head", "attention", "allows", "the", "model", "to", "jointly", "attend", "to", "information", "from", "different", "representation", "subspaces"],
+    "in_references": false
+  },
+  {
+    "sentence_id": "doc02_s00000",
+    "document_id": "doc02",
+    "document_name": "rag_evidence.pdf",
+    "page_number": 1,
+    "sentence_index": 0,
+    "text": "Retrieval-augmented generation reduces hallucination in domain-specific question answering.",
+    "tokens": ["Retrieval-augmented", "generation", "reduces", "hallucination", "in", "domain-specific", "question", "answering", "."],
+    "normalized_tokens": ["retrieval-augmented", "generation", "reduces", "hallucination", "in", "domain-specific", "question", "answering"],
+    "in_references": false
+  },
+  {
+    "sentence_id": "doc02_s00001",
+    "document_id": "doc02",
+    "document_name": "rag_evidence.pdf",
+    "page_number": 1,
+    "sentence_index": 1,
+    "text": "Parametric memory is combined with non-parametric retrieval from external document indices.",
+    "tokens": ["Parametric", "memory", "is", "combined", "with", "non-parametric", "retrieval", "from", "external", "document", "indices", "."],
+    "normalized_tokens": ["parametric", "memory", "is", "combined", "with", "non-parametric", "retrieval", "from", "external", "document", "indices"],
+    "in_references": false
+  },
+  {
+    "sentence_id": "doc02_s00002",
+    "document_id": "doc02",
+    "document_name": "rag_evidence.pdf",
+    "page_number": 2,
+    "sentence_index": 2,
+    "text": "Our empirical evaluation demonstrates significant improvements on open-domain NLP benchmarks.",
+    "tokens": ["Our", "empirical", "evaluation", "demonstrates", "significant", "improvements", "on", "open-domain", "NLP", "benchmarks", "."],
+    "normalized_tokens": ["our", "empirical", "evaluation", "demonstrates", "significant", "improvements", "on", "open-domain", "nlp", "benchmarks"],
+    "in_references": false
+  },
+  {
+    "sentence_id": "doc02_s00003",
+    "document_id": "doc02",
+    "document_name": "rag_evidence.pdf",
+    "page_number": 3,
+    "sentence_index": 3,
+    "text": "Dense passage retrieval outperforms classical sparse keyword baselines by five points.",
+    "tokens": ["Dense", "passage", "retrieval", "outperforms", "classical", "sparse", "keyword", "baselines", "by", "five", "points", "."],
+    "normalized_tokens": ["dense", "passage", "retrieval", "outperforms", "classical", "sparse", "keyword", "baselines", "by", "five", "points"],
+    "in_references": false
+  },
+  {
+    "sentence_id": "doc02_s00004",
+    "document_id": "doc02",
+    "document_name": "rag_evidence.pdf",
+    "page_number": 3,
+    "sentence_index": 4,
+    "text": "The neural generator produces more factual sentences when conditioned on retrieved evidence passages.",
+    "tokens": ["The", "neural", "generator", "produces", "more", "factual", "sentences", "when", "conditioned", "on", "retrieved", "evidence", "passages", "."],
+    "normalized_tokens": ["the", "neural", "generator", "produces", "more", "factual", "sentences", "when", "conditioned", "on", "retrieved", "evidence", "passages"],
+    "in_references": false
+  },
+  {
+    "sentence_id": "doc03_s00000",
+    "document_id": "doc03",
+    "document_name": "nlp_foundations.pdf",
+    "page_number": 1,
+    "sentence_index": 0,
+    "text": "Statistical language models estimate joint probabilities of word sequences using n-gram counts.",
+    "tokens": ["Statistical", "language", "models", "estimate", "joint", "probabilities", "of", "word", "sequences", "using", "n-gram", "counts", "."],
+    "normalized_tokens": ["statistical", "language", "models", "estimate", "joint", "probabilities", "of", "word", "sequences", "using", "n-gram", "counts"],
+    "in_references": false
+  },
+  {
+    "sentence_id": "doc03_s00001",
+    "document_id": "doc03",
+    "document_name": "nlp_foundations.pdf",
+    "page_number": 1,
+    "sentence_index": 1,
+    "text": "Smoothing techniques assign non-zero probabilities to unseen words and sequences.",
+    "tokens": ["Smoothing", "techniques", "assign", "non-zero", "probabilities", "to", "unseen", "words", "and", "sequences", "."],
+    "normalized_tokens": ["smoothing", "techniques", "assign", "non-zero", "probabilities", "to", "unseen", "words", "and", "sequences"],
+    "in_references": false
+  },
+  {
+    "sentence_id": "doc03_s00002",
+    "document_id": "doc03",
+    "document_name": "nlp_foundations.pdf",
+    "page_number": 2,
+    "sentence_index": 2,
+    "text": "Hidden Markov models discover syntactic structures through part-of-speech tag transition and emission probabilities.",
+    "tokens": ["Hidden", "Markov", "models", "discover", "syntactic", "structures", "through", "part-of-speech", "tag", "transition", "and", "emission", "probabilities", "."],
+    "normalized_tokens": ["hidden", "markov", "models", "discover", "syntactic", "structures", "through", "part-of-speech", "tag", "transition", "and", "emission", "probabilities"],
+    "in_references": false
+  },
+  {
+    "sentence_id": "doc03_s00003",
+    "document_id": "doc03",
+    "document_name": "nlp_foundations.pdf",
+    "page_number": 4,
+    "sentence_index": 3,
+    "text": "Vaswani, A. et al. (2017). Attention is all you need. Advances in Neural Information Processing Systems.",
+    "tokens": ["Vaswani", ",", "A.", "et", "al.", "(", "2017", ")", ".", "Attention", "is", "all", "you", "need", ".", "Advances", "in", "Neural", "Information", "Processing", "Systems", "."],
+    "normalized_tokens": ["vaswani", "a", "et", "al", "2017", "attention", "is", "all", "you", "need", "advances", "in", "neural", "information", "processing", "systems"],
+    "in_references": true
+  },
+  {
+    "sentence_id": "doc03_s00004",
+    "document_id": "doc03",
+    "document_name": "nlp_foundations.pdf",
+    "page_number": 4,
+    "sentence_index": 4,
+    "text": "Lewis, P. et al. (2020). Retrieval-augmented generation for knowledge-intensive NLP tasks. NeurIPS.",
+    "tokens": ["Lewis", ",", "P.", "et", "al.", "(", "2020", ")", ".", "Retrieval-augmented", "generation", "for", "knowledge-intensive", "NLP", "tasks", ".", "NeurIPS", "."],
+    "normalized_tokens": ["lewis", "p", "et", "al", "2020", "retrieval-augmented", "generation", "for", "knowledge-intensive", "nlp", "tasks", "neurips"],
+    "in_references": true
+  }
+]
