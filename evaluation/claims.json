@@ -1,17 +1,12 @@
 [
     {
-        "claim_id": "eval_claim_1",
-        "text": "Algorithm X achieves 90% accuracy on the test set.",
-        "source": "synthetic"
+        "claim_id": "real_claim_01",
+        "text": "Write your first real research claim here.",
+        "split": "test"
     },
     {
-        "claim_id": "eval_claim_2",
-        "text": "The latency was reduced by 25.5%, resulting in 10ms execution time.",
-        "source": "synthetic"
-    },
-    {
-        "claim_id": "eval_claim_3",
-        "text": "Dogs are different.",
-        "source": "synthetic"
+        "claim_id": "real_claim_02",
+        "text": "Write your second claim here, and so on up to 15-25 claims.",
+        "split": "tuning"
     }
 ]
