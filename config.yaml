@@ -1,0 +1,40 @@
+app:
+  title: "EVIDEX"
+
+paths:
+  raw_papers: "data/raw/papers"
+  processed: "data/processed"
+  artifacts: "data/artifacts"
+
+processing:
+  min_sentence_length: 5
+  max_sentence_length: 500
+  exclude_references: true
+  min_alpha_ratio: 0.6
+
+preprocessing:
+  lowercase: true
+  remove_stopwords: false
+
+tfidf:
+  ngram_range: [1, 2]
+  min_df: 1
+  sublinear_tf: true
+
+retrieval:
+  top_k: 5
+  min_similarity: 0.10
+  exclude_source_sentence: true
+
+claims:
+  min_candidate_score: 2
+  max_candidates: 50
+
+language_model:
+  n_values: [1, 2, 3]
+  smoothing: "add_k"
+  k: 0.1
+
+pos:
+  training_corpus: "nltk_treebank"
+  test_split: 0.1
