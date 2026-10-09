@@ -1,0 +1,603 @@
+[
+    {
+        "sentence_id": "1a2b3c4d5e6f_s00000",
+        "document_id": "1a2b3c4d5e6f",
+        "document_name": "synthetic_study_A.pdf",
+        "page_number": 1,
+        "page_end": false,
+        "sentence_index": 0,
+        "text": "In this paper, we explore the limits of synthetic intelligence algorithms.",
+        "tokens": [
+            "In",
+            "this",
+            "paper",
+            ",",
+            "we",
+            "explore",
+            "the",
+            "limits",
+            "of",
+            "synthetic",
+            "intelligence",
+            "algorithms",
+            "."
+        ],
+        "normalized_tokens": [
+            "in",
+            "this",
+            "paper",
+            "we",
+            "explore",
+            "the",
+            "limits",
+            "of",
+            "synthetic",
+            "intelligence",
+            "algorithms"
+        ],
+        "in_references": false,
+        "is_caption": false
+    },
+    {
+        "sentence_id": "1a2b3c4d5e6f_s00001",
+        "document_id": "1a2b3c4d5e6f",
+        "document_name": "synthetic_study_A.pdf",
+        "page_number": 1,
+        "page_end": false,
+        "sentence_index": 1,
+        "text": "How does the model perform under stress?",
+        "tokens": [
+            "How",
+            "does",
+            "the",
+            "model",
+            "perform",
+            "under",
+            "stress",
+            "?"
+        ],
+        "normalized_tokens": [
+            "how",
+            "does",
+            "the",
+            "model",
+            "perform",
+            "under",
+            "stress"
+        ],
+        "in_references": false,
+        "is_caption": false
+    },
+    {
+        "sentence_id": "1a2b3c4d5e6f_s00002",
+        "document_id": "1a2b3c4d5e6f",
+        "document_name": "synthetic_study_A.pdf",
+        "page_number": 1,
+        "page_end": false,
+        "sentence_index": 2,
+        "text": "We evaluated Algorithm X on multiple datasets.",
+        "tokens": [
+            "We",
+            "evaluated",
+            "Algorithm",
+            "X",
+            "on",
+            "multiple",
+            "datasets",
+            "."
+        ],
+        "normalized_tokens": [
+            "we",
+            "evaluated",
+            "algorithm",
+            "x",
+            "on",
+            "multiple",
+            "datasets"
+        ],
+        "in_references": false,
+        "is_caption": false
+    },
+    {
+        "sentence_id": "1a2b3c4d5e6f_s00003",
+        "document_id": "1a2b3c4d5e6f",
+        "document_name": "synthetic_study_A.pdf",
+        "page_number": 1,
+        "page_end": false,
+        "sentence_index": 3,
+        "text": "Figure 1: Accuracy of the proposed model.",
+        "tokens": [
+            "Figure",
+            "1",
+            ":",
+            "Accuracy",
+            "of",
+            "the",
+            "proposed",
+            "model",
+            "."
+        ],
+        "normalized_tokens": [
+            "figure",
+            "1",
+            "accuracy",
+            "of",
+            "the",
+            "proposed",
+            "model"
+        ],
+        "in_references": false,
+        "is_caption": true
+    },
+    {
+        "sentence_id": "1a2b3c4d5e6f_s00004",
+        "document_id": "1a2b3c4d5e6f",
+        "document_name": "synthetic_study_A.pdf",
+        "page_number": 1,
+        "page_end": true,
+        "sentence_index": 4,
+        "text": "Algorithm X achieves 90% accuracy on the test set.",
+        "tokens": [
+            "Algorithm",
+            "X",
+            "achieves",
+            "90",
+            "accuracy",
+            "on",
+            "the",
+            "test",
+            "set",
+            "."
+        ],
+        "normalized_tokens": [
+            "algorithm",
+            "x",
+            "achieves",
+            "90",
+            "accuracy",
+            "on",
+            "the",
+            "test",
+            "set"
+        ],
+        "in_references": false,
+        "is_caption": false
+    },
+    {
+        "sentence_id": "1a2b3c4d5e6f_s00005",
+        "document_id": "1a2b3c4d5e6f",
+        "document_name": "synthetic_study_A.pdf",
+        "page_number": 2,
+        "page_end": false,
+        "sentence_index": 5,
+        "text": "The latency was reduced by 25.5%, resulting in 10ms execution time.",
+        "tokens": [
+            "The",
+            "latency",
+            "was",
+            "reduced",
+            "by",
+            "25",
+            ".",
+            "5",
+            ",",
+            "resulting",
+            "in",
+            "10ms",
+            "execution",
+            "time",
+            "."
+        ],
+        "normalized_tokens": [
+            "the",
+            "latency",
+            "was",
+            "reduced",
+            "by",
+            "25",
+            "5",
+            "resulting",
+            "in",
+            "10ms",
+            "execution",
+            "time"
+        ],
+        "in_references": false,
+        "is_caption": false
+    },
+    {
+        "sentence_id": "1a2b3c4d5e6f_s00006",
+        "document_id": "1a2b3c4d5e6f",
+        "document_name": "synthetic_study_A.pdf",
+        "page_number": 2,
+        "page_end": false,
+        "sentence_index": 6,
+        "text": "This is robust.",
+        "tokens": [
+            "This",
+            "is",
+            "robust",
+            "."
+        ],
+        "normalized_tokens": [
+            "this",
+            "is",
+            "robust"
+        ],
+        "in_references": false,
+        "is_caption": false
+    },
+    {
+        "sentence_id": "1a2b3c4d5e6f_s00007",
+        "document_id": "1a2b3c4d5e6f",
+        "document_name": "synthetic_study_A.pdf",
+        "page_number": 2,
+        "page_end": false,
+        "sentence_index": 7,
+        "text": "The baseline model only achieved 70%.",
+        "tokens": [
+            "The",
+            "baseline",
+            "model",
+            "only",
+            "achieved",
+            "70",
+            "."
+        ],
+        "normalized_tokens": [
+            "the",
+            "baseline",
+            "model",
+            "only",
+            "achieved",
+            "70"
+        ],
+        "in_references": false,
+        "is_caption": false
+    },
+    {
+        "sentence_id": "1a2b3c4d5e6f_s00008",
+        "document_id": "1a2b3c4d5e6f",
+        "document_name": "synthetic_study_A.pdf",
+        "page_number": 2,
+        "page_end": false,
+        "sentence_index": 8,
+        "text": "We thank our sponsors for the grant.",
+        "tokens": [
+            "We",
+            "thank",
+            "our",
+            "sponsors",
+            "for",
+            "the",
+            "grant",
+            "."
+        ],
+        "normalized_tokens": [
+            "we",
+            "thank",
+            "our",
+            "sponsors",
+            "for",
+            "the",
+            "grant"
+        ],
+        "in_references": false,
+        "is_caption": false
+    },
+    {
+        "sentence_id": "1a2b3c4d5e6f_s00009",
+        "document_id": "1a2b3c4d5e6f",
+        "document_name": "synthetic_study_A.pdf",
+        "page_number": 2,
+        "page_end": true,
+        "sentence_index": 9,
+        "text": "Smith, J. (2020). Synthetic AI models.",
+        "tokens": [
+            "Smith",
+            ",",
+            "J",
+            ".",
+            "2020",
+            ".",
+            "Synthetic",
+            "AI",
+            "models",
+            "."
+        ],
+        "normalized_tokens": [
+            "smith",
+            "j",
+            "2020",
+            "synthetic",
+            "ai",
+            "models"
+        ],
+        "in_references": true,
+        "is_caption": false
+    },
+    {
+        "sentence_id": "f6e5d4c3b2a1_s00000",
+        "document_id": "f6e5d4c3b2a1",
+        "document_name": "synthetic_study_B.pdf",
+        "page_number": 1,
+        "page_end": false,
+        "sentence_index": 0,
+        "text": "Recent advances in Algorithm X have shown promise.",
+        "tokens": [
+            "Recent",
+            "advances",
+            "in",
+            "Algorithm",
+            "X",
+            "have",
+            "shown",
+            "promise",
+            "."
+        ],
+        "normalized_tokens": [
+            "recent",
+            "advances",
+            "in",
+            "algorithm",
+            "x",
+            "have",
+            "shown",
+            "promise"
+        ],
+        "in_references": false,
+        "is_caption": false
+    },
+    {
+        "sentence_id": "f6e5d4c3b2a1_s00001",
+        "document_id": "f6e5d4c3b2a1",
+        "document_name": "synthetic_study_B.pdf",
+        "page_number": 1,
+        "page_end": false,
+        "sentence_index": 1,
+        "text": "Algorithm X is highly efficient.",
+        "tokens": [
+            "Algorithm",
+            "X",
+            "is",
+            "highly",
+            "efficient",
+            "."
+        ],
+        "normalized_tokens": [
+            "algorithm",
+            "x",
+            "is",
+            "highly",
+            "efficient"
+        ],
+        "in_references": false,
+        "is_caption": false
+    },
+    {
+        "sentence_id": "f6e5d4c3b2a1_s00002",
+        "document_id": "f6e5d4c3b2a1",
+        "document_name": "synthetic_study_B.pdf",
+        "page_number": 1,
+        "page_end": false,
+        "sentence_index": 2,
+        "text": "What are the implications of Algorithm X?",
+        "tokens": [
+            "What",
+            "are",
+            "the",
+            "implications",
+            "of",
+            "Algorithm",
+            "X",
+            "?"
+        ],
+        "normalized_tokens": [
+            "what",
+            "are",
+            "the",
+            "implications",
+            "of",
+            "algorithm",
+            "x"
+        ],
+        "in_references": false,
+        "is_caption": false
+    },
+    {
+        "sentence_id": "f6e5d4c3b2a1_s00003",
+        "document_id": "f6e5d4c3b2a1",
+        "document_name": "synthetic_study_B.pdf",
+        "page_number": 1,
+        "page_end": false,
+        "sentence_index": 3,
+        "text": "Figure 2: Performance metrics over time.",
+        "tokens": [
+            "Figure",
+            "2",
+            ":",
+            "Performance",
+            "metrics",
+            "over",
+            "time",
+            "."
+        ],
+        "normalized_tokens": [
+            "figure",
+            "2",
+            "performance",
+            "metrics",
+            "over",
+            "time"
+        ],
+        "in_references": false,
+        "is_caption": true
+    },
+    {
+        "sentence_id": "f6e5d4c3b2a1_s00004",
+        "document_id": "f6e5d4c3b2a1",
+        "document_name": "synthetic_study_B.pdf",
+        "page_number": 1,
+        "page_end": true,
+        "sentence_index": 4,
+        "text": "Our implementation of Algorithm X achieves 92% accuracy.",
+        "tokens": [
+            "Our",
+            "implementation",
+            "of",
+            "Algorithm",
+            "X",
+            "achieves",
+            "92",
+            "accuracy",
+            "."
+        ],
+        "normalized_tokens": [
+            "our",
+            "implementation",
+            "of",
+            "algorithm",
+            "x",
+            "achieves",
+            "92",
+            "accuracy"
+        ],
+        "in_references": false,
+        "is_caption": false
+    },
+    {
+        "sentence_id": "f6e5d4c3b2a1_s00005",
+        "document_id": "f6e5d4c3b2a1",
+        "document_name": "synthetic_study_B.pdf",
+        "page_number": 2,
+        "page_end": false,
+        "sentence_index": 5,
+        "text": "We observe a 15% increase in throughput.",
+        "tokens": [
+            "We",
+            "observe",
+            "a",
+            "15",
+            "increase",
+            "in",
+            "throughput",
+            "."
+        ],
+        "normalized_tokens": [
+            "we",
+            "observe",
+            "a",
+            "15",
+            "increase",
+            "in",
+            "throughput"
+        ],
+        "in_references": false,
+        "is_caption": false
+    },
+    {
+        "sentence_id": "f6e5d4c3b2a1_s00006",
+        "document_id": "f6e5d4c3b2a1",
+        "document_name": "synthetic_study_B.pdf",
+        "page_number": 2,
+        "page_end": false,
+        "sentence_index": 6,
+        "text": "It is fast.",
+        "tokens": [
+            "It",
+            "is",
+            "fast",
+            "."
+        ],
+        "normalized_tokens": [
+            "it",
+            "is",
+            "fast"
+        ],
+        "in_references": false,
+        "is_caption": false
+    },
+    {
+        "sentence_id": "f6e5d4c3b2a1_s00007",
+        "document_id": "f6e5d4c3b2a1",
+        "document_name": "synthetic_study_B.pdf",
+        "page_number": 2,
+        "page_end": false,
+        "sentence_index": 7,
+        "text": "Other approaches fail.",
+        "tokens": [
+            "Other",
+            "approaches",
+            "fail",
+            "."
+        ],
+        "normalized_tokens": [
+            "other",
+            "approaches",
+            "fail"
+        ],
+        "in_references": false,
+        "is_caption": false
+    },
+    {
+        "sentence_id": "f6e5d4c3b2a1_s00008",
+        "document_id": "f6e5d4c3b2a1",
+        "document_name": "synthetic_study_B.pdf",
+        "page_number": 2,
+        "page_end": false,
+        "sentence_index": 8,
+        "text": "This project was funded by XYZ.",
+        "tokens": [
+            "This",
+            "project",
+            "was",
+            "funded",
+            "by",
+            "XYZ",
+            "."
+        ],
+        "normalized_tokens": [
+            "this",
+            "project",
+            "was",
+            "funded",
+            "by",
+            "xyz"
+        ],
+        "in_references": false,
+        "is_caption": false
+    },
+    {
+        "sentence_id": "f6e5d4c3b2a1_s00009",
+        "document_id": "f6e5d4c3b2a1",
+        "document_name": "synthetic_study_B.pdf",
+        "page_number": 2,
+        "page_end": true,
+        "sentence_index": 9,
+        "text": "Doe, J. (2021). The future of AI.",
+        "tokens": [
+            "Doe",
+            ",",
+            "J",
+            ".",
+            "2021",
+            ".",
+            "The",
+            "future",
+            "of",
+            "AI",
+            "."
+        ],
+        "normalized_tokens": [
+            "doe",
+            "j",
+            "2021",
+            "the",
+            "future",
+            "of",
+            "ai"
+        ],
+        "in_references": true,
+        "is_caption": false
+    }
+]
