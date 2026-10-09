@@ -11,7 +11,7 @@ class SentenceRecord(TypedDict):
     document_id: str
     document_name: str
     page_number: int
-    page_end: Optional[bool]
+    page_end: Optional[int]
     sentence_index: int
     text: str
     tokens: List[str]

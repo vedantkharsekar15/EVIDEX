@@ -181,7 +181,7 @@ def render_nlp_analysis_page() -> None:
                         for i, item in enumerate(top_ngrams_list)
                     ]
                 )
-                st.dataframe(df_ngrams, use_container_width=True, hide_index=True)
+                st.dataframe(df_ngrams, width="stretch", hide_index=True)
             else:
                 st.info("No n-grams found for this order.")
 
@@ -228,7 +228,7 @@ def render_nlp_analysis_page() -> None:
                             max_value=max(p for _, p in predictions) * 1.1 if predictions else 1.0,
                         )
                     },
-                    use_container_width=True,
+                    width="stretch",
                     hide_index=True,
                 )
             else:
@@ -316,7 +316,7 @@ def render_nlp_analysis_page() -> None:
                         for word, tag in tagged_tokens
                     ]
                 )
-                st.dataframe(tag_df, use_container_width=True, hide_index=True)
+                st.dataframe(tag_df, width="stretch", hide_index=True)
 
     # ==========================================
     # TAB 3: Term Frequencies & Word Cloud
@@ -344,14 +344,14 @@ def render_nlp_analysis_page() -> None:
         with freq_col:
             st.subheader("Ranked Frequency Table")
             df_freq = frequency_table(records, top_n=top_words_count, remove_stopwords=remove_stops)
-            st.dataframe(df_freq, use_container_width=True, hide_index=True)
+            st.dataframe(df_freq, width="stretch", hide_index=True)
 
         with cloud_col:
             st.subheader("Corpus Word Cloud")
             if freqs_dict:
                 wc_image = build_wordcloud(freqs_dict, max_words=top_words_count)
                 if wc_image:
-                    st.image(wc_image, caption="Corpus Word Cloud", use_container_width=True)
+                    st.image(wc_image, caption="Corpus Word Cloud", width="stretch")
                 else:
                     st.info("Unable to generate word cloud.")
             else:
